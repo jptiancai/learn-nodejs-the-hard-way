@@ -2,6 +2,7 @@
 
 ## 学习资源汇总
 
+- Node.js开发指南
 - 📚深入浅出node.js : 朴灵
 - [针对 Node.js 初学者的入门资源汇总](http://www.iteye.com/news/24789/)
 - 谢骋超,[深入浅出node.js游戏服务器开发1——基础架构与框架介绍

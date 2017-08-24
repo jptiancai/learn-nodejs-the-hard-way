@@ -2,7 +2,7 @@
 
 ## 学习资源汇总
 
-- Node.js开发指南
+- Node.js开发指南 ， 作者经历[海外实习面试记 ——by《Node.js开发指南》作者BYVoid](http://www.ituring.com.cn/article/45682)
 - 📚深入浅出node.js : 朴灵
 - [针对 Node.js 初学者的入门资源汇总](http://www.iteye.com/news/24789/)
 - 谢骋超,[深入浅出node.js游戏服务器开发1——基础架构与框架介绍

@@ -11,6 +11,14 @@ supervisor app.js
 
 ```
 
+- exports 和 module.exports 的区别
+
+- Node.js的包严格符合CommonJS规范的定义
+
+- npm install -g 中-g代表全局模式
+
+- node 默认的调试端口是5858, node debug,可以方便的远程调试
+
 
 
 ### [针对 Node.js 初学者的入门资源汇总](http://www.iteye.com/news/24789/)

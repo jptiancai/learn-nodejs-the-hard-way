@@ -9,6 +9,7 @@ var contents = querystring.stringify({
   address: 'Zijing 2#, Tsinghua University',
 });
 
+// 网站已经
 var options = {
   host: 'www.byvoid.com',
   path: '/application/node/post.php',

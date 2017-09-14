@@ -52,6 +52,16 @@ module.exports = router;
 
 ```
 
+- 上官网, 看node安装express的正确命令(作者的命令已经过时很久了)
+
+http://www.expressjs.com.cn
+```
+
+npm install express --save
+npm install --save ejs
+
+```
+
 
 ### [针对 Node.js 初学者的入门资源汇总](http://www.iteye.com/news/24789/)
 - 谢骋超,[深入浅出node.js游戏服务器开发1——基础架构与框架介绍

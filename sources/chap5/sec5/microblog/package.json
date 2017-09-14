@@ -1,9 +1,9 @@
 {
-    "name": "microblog"
-  , "version": "0.0.1"
-  , "private": true
-  , "dependencies": {
-      "express": "2.5.8"
-    , "ejs": ">= 0.0.1"
-  }
+    "name": "microblog",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "ejs": "^2.5.7",
+        "express": "^2.5.8"
+    }
 }
